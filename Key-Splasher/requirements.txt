@@ -1,0 +1,6 @@
+colorama
+argparse
+pynput
+colorama
+logging
+keyboard
